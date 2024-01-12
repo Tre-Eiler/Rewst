@@ -1,9 +1,6 @@
 # Option Generators
 
-The option generators above provide you the ```ID``` you will need to trigger a scheduling link request. For new users, try using the "Generate Scheduling Link Inputs" form in this repo, it will give you the data you want in a user-friendly fashion.
-
-
-[Scheduling Link Input Generator]([https://www.example.com](https://github.com/TEiler-KMESystems/Rewst/tree/main/Generate%20Scheduling%20Link%20Inputs))
+The option generators above provide you the ```ID``` you will need to trigger a scheduling link request. For new users, try using the "Generate Scheduling Link Inputs" form in this repo, it will give you the data you want in a user-friendly fashion, [Scheduling Link Input Generator]([https://www.example.com](https://github.com/TEiler-KMESystems/Rewst/tree/main/Generate%20Scheduling%20Link%20Inputs)).
 
 ## Pre-Requisites
 
