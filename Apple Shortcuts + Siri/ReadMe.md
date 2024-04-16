@@ -5,7 +5,7 @@
 **Rewst.io** is a Robotic Process Automation (RPA) platform that integrates tools, mostly targeted at MSPs. It allows you to build flows on visual canvasses without any coding or agents required.
 
 
-The workflow, shotcut, and readme below allow you to implement Rewst, Apple Shortcuts, and ConnectWise PSA (formerly ConnectWise Manage). 
+The workflow, shortcut, and readme below allow you to implement Rewst, Apple Shortcuts, and ConnectWise PSA (formerly ConnectWise Manage). 
 
 ## Pre-Requisites
 
