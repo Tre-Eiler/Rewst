@@ -141,3 +141,13 @@ After downloading the shortcut to your Apple device, open it and follow the step
     * Ask for priority
 * The only limits are what you can ask via Shortcuts, and passing that data into a header cleanly.
    * Remember to make sure that both your header and the workflow in Rewst are rebuild to account for the new data you are inputting.
+
+## Troubleshoting your workflow
+
+* If you do not see executions in Rewst, your webhook likely has an error.
+    * Verify you have the right webhook URL
+    * Verify your secret key is correct
+    * Create a new webhook trigger
+* If you are seeing errors in Rewst, your inputs in the shortcut are likely off
+   * Verify your board IDs are correct if you are able to find a contact
+   * If you fail at contact lookup, its likely that contact doesnt exist or you do not have integration overrides setup correctly, check errors for more info.
