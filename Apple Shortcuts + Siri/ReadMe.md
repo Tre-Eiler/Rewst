@@ -42,6 +42,9 @@ After importing the template workflow, please open the workflow complete these s
 
 2. Integration Overrides (optional)
    * If needed, add integration overrides to your CW PSA instance
+  
+3. Secret Key
+   * Open the editor and provide a randomized key. Note this key, you will need it later.
 
 3. Activate Trigger To Run For
    * Enable the organization(s) you wish to allow webhook requests
