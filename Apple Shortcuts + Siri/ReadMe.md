@@ -129,3 +129,12 @@ After downloading the shortcut to your Apple device, open it and follow the step
 
 > [!TIP] 
 > Questions, bugs, issues? There is a [thread in Rewst's discord](https://discord.com/channels/936789089703845988/1228435591549685862) regarding this workflow. Sound off in this thread with questions to receive support from the Rewst community. 
+
+## Improving your shortcut
+
+* The shortcut provided is simply a template. You can create additonal logic inside the shortcut to provide more data to Rewst.
+    * Ask for a five word summary of the issue
+    * Ask for a phone number for callback
+    * Ask for priority
+* The only limits are what you can ask via Shortcuts, and passing that data into a header cleanly.
+   * Remember to make sure that both your header and the workflow in Rewst are rebuild to account for the new data you are inputting.
