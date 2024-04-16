@@ -37,22 +37,18 @@ Attached within this repo is an Template Workflow that will create a ticket base
 
 After importing the template workflow, please open the workflow complete these steps:
 
-1. Create a trigger
-   * Set Trigger Type to ```Core - Webhook```
+1. Open Trigger
+   * A Webhook trigger was already created for you, you can simply edit this one.
 
 2. Integration Overrides (optional)
    * If needed, add integration overrides to your CW PSA instance
 
-3. Trigger Parameters
-   * Please set the following variable, all others can remain as default or be modified as you see fit.
-      * Allowed Methods: ```POST```
-
-4. Activate Trigger To Run For
+3. Activate Trigger To Run For
    * Enable the organization(s) you wish to allow webhook requests
 
-5. Save your trigger
+4. Save your trigger
 
-6. Copy the Webhook URL for the organization you wish to setup and note it, you will need it later.
+5. Copy the Webhook URL for the organization you wish to setup and note it, you will need it later.
 
 <br>
 
