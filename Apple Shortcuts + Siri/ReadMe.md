@@ -123,6 +123,10 @@ After downloading the shortcut to your Apple device, open it and follow the step
 * You can add the shortcut to your desktop, iOS Homescreen, Action Button (if equipped), or any other location Shortcuts are supported.
 * Via Siri
     * It is reccomended you rename the shortcut. Doing so will make invoking the shortcut via Siri easier. Simply state the workflow name.
+
+> [!IMPORTANT]  
+> You will be prompted to allow the Shortcut to access your default web browser by Apple Privacy, this is normal and required to run the webhook action in Shortcuts.
+
 > [!NOTE]  
 > Avoid using names that are similar to built-in commands within Siri. Unique names are more likely to behave as expected.
 
