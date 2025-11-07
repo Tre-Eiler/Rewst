@@ -8,38 +8,9 @@ Welcome to the FAQ for our basic Rewst IO workflows designed to manage tenants a
 
 This repository currently includes the following Rewst IO workflows:
 
-- **Add Tenant**
 - **Remove Tenant**
-- **Add User**
 - **Remove User**
 
----
-
-## 🚀 What do these workflows do?
-
-### ➕ Add Tenant
-Creates a new tenant in your system. This typically includes:
-- Creating a tenant record in your database or PSA.
-- Assigning default configurations or templates.
-- Sending a notification to relevant stakeholders.
-
-### ➖ Remove Tenant
-Deletes or deactivates a tenant. This may include:
-- Archiving tenant data.
-- Removing access from systems.
-- Logging the removal for audit purposes.
-
-### 👤 Add User
-Adds a user to a specified tenant. This may include:
-- Creating user accounts in relevant systems (e.g., Microsoft 365, PSA).
-- Assigning default roles or permissions.
-- Sending onboarding emails or notifications.
-
-### 🗑️ Remove User
-Removes a user from a tenant. This may include:
-- Disabling or deleting accounts.
-- Revoking access to systems.
-- Logging the action for compliance.
 
 ---
 
